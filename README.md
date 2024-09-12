@@ -2,6 +2,9 @@
 
 ## Projeto Java 17 - Aula 01: Fundamentos da Linguagem
 
+## Objetivo do Projeto
+Este repositório tem como objetivo documentar minha jornada de aprendizado em Java, com foco em consolidar os conhecimentos adquiridos em sala de aula e me preparar para o mercado de trabalho. Aqui, serão explorados conceitos fundamentais da linguagem, desde os pilares da programação orientada a objetos até tópicos mais avançados como design patterns e frameworks.
+
 ## Descrição
 Este repositório contém os códigos desenvolvidos durante a primeira aula do curso de Java 17. O objetivo é introduzir os conceitos básicos da linguagem, como classes, objetos, atributos, métodos, encapsulamento, entrada de dados e boas práticas de programação.
 
