@@ -37,7 +37,3 @@ IDE: Eclipse 2023-09 (4.29.0)
 * Desenvolvimento em N camadas.
 * Tratamento de exceções.
 * Gravação de arquivos em TXT.
-
-
-
-   
